@@ -37,16 +37,22 @@ Global gdblScheduleTime As Double
 
 Public Sub ScheduleEventsEveryMinute()
 Dim strAndSeconds As String
-    strAndSeconds = Round(Rnd() * 55, 0)
-    gdblScheduleTime = Now + TimeValue("00:00:" & strAndSeconds) ' or Now + (1 / 24 / 60)
+    strAndSeconds = Round(Rnd() * 10, 0)
+    gdblScheduleTime = Now + TimeValue("00:01:" & strAndSeconds) 
     Excel.Application.OnTime gdblScheduleTime, "SaveThisFile"
+End Sub
+
+Public Sub CancelScheduledEvents()
+    If gdblScheduleTime > 0 Then
+         Application.OnTime gdblScheduleTime, Procedure:="SaveThisFile", Schedule:=False
+    End If
 End Sub
         
 Public Sub SaveThisFile()
     Application.Calculate
     Dim dblIdleTime As Double
     dblIdleTime = GetIdleTime
-    If dblIdleTime > 1 Then
+    If dblIdleTime > 60 Then
         'Only jiggle the mouse if we have been idle for more then a minute
         'The disadvantage of a mouse jiggle allways is that if we are typing it interupts and looses several keystrokes (that is why we check GetIdleTime)
         ThisWorkbook.Activate
