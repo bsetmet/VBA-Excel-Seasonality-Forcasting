@@ -1,12 +1,12 @@
 # VBA-Excel-Seasonality-Forcasting 
 
-*This annylasis uses the Multiplicative Decomposition Model to Deseasonalize the data to smooth.
-*Yt=Trend(levels)Season(t)Irregular(t)
+This annylasis uses the Multiplicative Decomposition Model to Deseasonalize the data to smooth.
+Yt=Trend(levels)*Season(t)*Irregular(t)
 
 ## Benefits
 
-...
-	    
+Measuring seasonality of a data set can help organizations plan for the future. Seasonality can be caused by various factors such as weather vacation or holidays. 
+
 ## Public Domain
 
 This project is in the public domain within the United States, and
