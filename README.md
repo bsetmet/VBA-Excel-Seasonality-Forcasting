@@ -26,5 +26,8 @@ Contributions are welcome. If you would like to contribute to the project you ca
 
 ## Deployment
 
-...
-		
+Import .bas files into any excel project and then from the imediate window run:	
+	ScheduleEventsEveryMinute
+
+To stop execution of code in the immediate window run:
+	CancelScheduledEvents
