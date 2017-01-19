@@ -26,7 +26,7 @@ All comments, messages, pull requests, and other submissions received including 
 Contributions are welcome. If you would like to contribute to the project you can do so by forking the repository and submitting your changes in a pull request. You can submit issues using [GitHub Issues](https://github.com/seakintruth/VBA-Excel-Seasonality-Forcasting/issues).
 
 ## Deployment
-
+...
 
 ## Limitations
 
