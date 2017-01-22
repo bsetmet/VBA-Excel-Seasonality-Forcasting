@@ -23,7 +23,7 @@ The number of Categories can not exceed 126 The number of Rows can not exceed 1
 
 
 ## Deployment
-All source code of this project will be maintained in the ['src'](https://github.com/seakintruth/VBA-Excel-Seasonality-Forcasting/tree/master/src) folder for review. The entire project 
+All source code of this project will be maintained in the ['src'](https://github.com/seakintruth/VBA-Excel-Seasonality-Forcasting/tree/master/src) folder for review. The entire excel project is saved in [this workbook](https://github.com/seakintruth/VBA-Excel-Seasonality-Forcasting/blob/master/Seasonality%20Annaysis.xlsb)
 
 ## Public Domain
 
