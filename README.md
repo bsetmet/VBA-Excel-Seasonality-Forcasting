@@ -12,13 +12,13 @@ Measuring seasonality of a data set can help organizations plan for the future. 
 
 ### Limitations
 
-Note: the excel limitations that consern this tool are as follows:
-"Cover" sheet Cells C2, F2, F5,  and F7 are static (Can't be moved) 
-"Data" Sheet must start with three uniqe values, "Category, Date, Values" (the fourth Column is created at runtime) 
-"Historical Periods" is the number of periods to display on the chart, all data will be used to calculate the forecast line 
-"Dataset Has Values of '0' " is set to False by default if your data set has 0's then is must also have a value for every category on each date entry (or you will need to make your 0's  = 1x10^-20)  
-All week Calculations and groupings conform to ISO 8601 i.e. a year has 53 weeks every 5.6338 years (starting in 2004) 
-The number of Categories can not exceed 126 The number of Rows can not exceed 1048575
+The excel limitations that consern this tool are as follows:
+* "Cover" sheet Cells C2, F2, F5,  and F7 are static (Can't be moved) 
+* "Data" Sheet must start with three uniqe values, "Category, Date, Values" (the fourth Column is created at runtime) 
+* "Historical Periods" is the number of periods to display on the chart, all data will be used to calculate the forecast line 
+* "Dataset Has Values of '0' " is set to False by default if your data set has 0's then is must also have a value for every category on each date entry (or you will need to make your 0's  = 1x10^-20)  
+* All week Calculations and groupings conform to ISO 8601 i.e. a year has 53 weeks every 5.6338 years (starting in 2004) 
+* The number of Categories can not exceed 126 The number of Rows can not exceed 1048575
 
 
 
