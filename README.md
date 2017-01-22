@@ -23,7 +23,7 @@ The excel limitations that consern this tool are as follows:
 
 
 ## Deployment
-All source code of this project will be maintained in the ['src'](https://github.com/seakintruth/VBA-Excel-Seasonality-Forcasting/tree/master/src) folder for review. The entire excel project is saved in [this workbook](https://github.com/seakintruth/VBA-Excel-Seasonality-Forcasting/blob/master/Excel%20.xlsm/Seasonality%20Annaysis.xlsm)
+All source code of this project will be maintained in the ['src'](https://github.com/seakintruth/VBA-Excel-Seasonality-Forcasting/tree/master/src) folder for review. The entire excel project is saved in [this workbook](https://github.com/seakintruth/VBA-Excel-Seasonality-Forcasting/blob/master/Excel/Excel%20.xlsm/Seasonality%20Annaysis.xlsm)
 
 ## Public Domain
 
