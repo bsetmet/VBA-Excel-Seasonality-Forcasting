@@ -35,6 +35,14 @@ All contributions to this project will be released under the CC0 dedication. By 
 
 For more information, see [license](https://github.com/seakintruth/VBA-Excel-Seasonality-Forcasting/blob/master/LICENSE.md).
 
+#### Note
+1. In accrordance with [17 U.S.C. § 105](https://www.copyright.gov/title17/92chap1.html#105) This work is 'noncopyright' or in the 'public domain'. Exerpts follow:
+  * Subject matter of copyright: 
+    * United States Government works protection under this title is not available for any work of the United States Government, but the United States Government is not precluded from receiving and holding copyrights transferred to it by assignment, bequest, or otherwise.
+  * as defined by [17 U.S.C § 101](https://www.copyright.gov/title17/92chap1.html#101):
+    * A “work of the United States Government” is a work prepared by an officer or employee of the United States Government as part of that person’s official duties.
+2. Inclusion of any of this public source contribution does not in any way signify endorsment of these efforts by the United State Government
+
 ## Privacy
 
 All comments, messages, pull requests, and other submissions received including this GitHub page may be subject to archiving requirements. See the [Privacy Statement](http://www.archives.gov/global-pages/privacy.html) for more information.
