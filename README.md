@@ -6,6 +6,8 @@ This tool has been built for VBA (Windows and Mac Excel, and plan on incorperati
 Currently this annylasis tool uses the [Multiplicative Decomposition Model](https://ec.europa.eu/eurostat/sa-elearning/multiplicative-decomposition) (with plans to add alternative methods) to Deseasonalize data to smooth in order to represent that data in a standard graph. 
 Yt=Trend(levels)*Season(t)*Irregular(t)
 
+[![DOI](https://zenodo.org/badge/79480566.svg)](https://zenodo.org/badge/latestdoi/79480566)
+
 ### Benefits
 
 Measuring seasonality of a data set can help organizations plan for the future. Seasonality can be caused by various factors such as weather vacation or holidays. 
